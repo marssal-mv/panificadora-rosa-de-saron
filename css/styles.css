@@ -165,3 +165,13 @@ body {
     padding-top: 16px;
     margin-top: 10px;
 }
+
+.rodape-link {
+    color: #f4f1ec;
+    text-decoration: none;
+    opacity: 0.9;
+}
+
+.rodape-link:hover {
+    text-decoration: underline;
+}
